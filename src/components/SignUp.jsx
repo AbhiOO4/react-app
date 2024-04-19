@@ -11,7 +11,7 @@ function Signup() {
             <input type="password" placeholder='password' name='' id=''  className='mb-4 rounded-lg px-1'/><br />
             <p className='py-2' >CONFIRM PASSWORD </p>
             <input type="password" placeholder='password' name='' id=''  className='mb-4 rounded-lg px-1'/><br />
-            <input type="submit" value='Login'  className="bg-cyan-950 hover:bg-cyan-500 rounded-3xl px-8 py-1 text-white font-medium"/>
+            <input type="submit" value='Signup'  className="bg-cyan-950 hover:bg-cyan-500 rounded-3xl px-8 py-1 text-white font-medium"/>
         </form>
 
         <p className='px-3'>OR</p>
