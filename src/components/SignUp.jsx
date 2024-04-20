@@ -16,7 +16,7 @@ function Signup() {
 
         <p className='px-3'>OR</p>
 
-        <Link className="bg-cyan-950 hover:bg-cyan-500 rounded-3xl px-8 py-1 text-white font-medium" to="/Login">Login</Link>
+        <Link className="bg-cyan-950 hover:bg-cyan-500 rounded-3xl px-8 py-1 text-white font-medium" to="/Login">Sign-Up</Link>
 
     </div>
   )
